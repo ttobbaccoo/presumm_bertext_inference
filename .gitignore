@@ -1,0 +1,5 @@
+*.txt
+!requirements.txt
+run.sh
+temp/
+__pycache__/
